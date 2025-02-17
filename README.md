@@ -11,9 +11,11 @@
 <br><br>
 - :school: I am a `Student` at [Institute of Software Engineering](https://www.ijse.lk/).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- 👯 I’m looking to collaborate on `Open Source Projects`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`,<!--- this is [MY RESUME](). -->
+- :thinking: I’m currently open for a new `job opportunity`.<!--- this is [MY RESUME](). -->
 - :boom: You can visit [MY PORTFOLIO](https://vinodniloshana.vercel.app/).
+- 📫 How to reach me vinodfernando048@gmail.com
 <br>
 <!--- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
