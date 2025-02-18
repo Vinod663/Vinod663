@@ -35,23 +35,13 @@
 <p align="center">
 <img width="600px"  src="https://skillicons.dev/icons?i=java,mysql,css,html,git,github,stackoverflow,idea,vscode,figma,ps,ai&perline=12"  />
 </p>
-<br />
 
-<h2>📊 GitHub Stats:</h2>
+
 <div align="center">
 
-<!-- Creating a table to add space between images -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinod663&theme=dark&hide_border=false"/>
-    </td>
-    <td width="10px">&nbsp;</td> <!-- This adds space between the images -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
-  </tr>
-</table>
+<!--![](https://github-readme-stats.vercel.app/api?username=Vinod663&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vinod663&theme=dark&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod663&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
