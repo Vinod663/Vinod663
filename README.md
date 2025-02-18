@@ -30,6 +30,12 @@
 	<a href="https://www.instagram.com/nfvinod?igsh=MWsxajNvZ3B5ZnkyZQ=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
 </p>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=java,mysql,css,html,git,github,stackoverflow,idea,vscode,figma,ps,ai&perline=6"  />
+</p>
+<br />
 
 
 
