@@ -33,7 +33,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,mysql,css,html,git,github,stackoverflow,idea,vscode,figma,ps,ai&perline=6"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=java,mysql,css,html,git,github,stackoverflow,idea,vscode,figma,ps,ai&perline=12"  />
 </p>
 <br />
 
