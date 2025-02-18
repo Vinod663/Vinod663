@@ -29,13 +29,33 @@
 	<a href="https://www.facebook.com/share/19p415RGLn/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/nfvinod?igsh=MWsxajNvZ3B5ZnkyZQ=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	
-</p>
+</p><br>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="600px"  src="https://skillicons.dev/icons?i=java,mysql,css,html,git,github,stackoverflow,idea,vscode,figma,ps,ai&perline=12"  />
 </p>
 <br />
+
+<h2>📊 GitHub Stats:</h2>
+<div align="center">
+
+<!-- Creating a table to add space between images -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinod663&theme=dark&hide_border=false"/>
+    </td>
+    <td width="10px">&nbsp;</td> <!-- This adds space between the images -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 
 
