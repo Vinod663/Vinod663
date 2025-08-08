@@ -33,7 +33,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=java,mysql,hibernate,spring,bootstrap,jquery,js,html,css,git,github,stackoverflow,vercel,idea,vscode,postman,figma,ps,ai&perline=19"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=java,python,mysql,hibernate,spring,bootstrap,jquery,js,html,css,git,github,stackoverflow,vercel,idea,webstorm,pycharm,vscode,postman,figma,ps,ai&perline=11"  />
 </p>
 
 
