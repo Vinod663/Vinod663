@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on `Open Source Projects`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.<!--- this is [MY RESUME](). -->
-- :boom: You can visit [MY PORTFOLIO](https://vinodniloshana.vercel.app/).
+- :boom: You can visit [MY PORTFOLIO](https://vinodniloshana.me/).
 - 📫 How to reach me vinodfernando048@gmail.com
 <br>
 <!--- :trophy: 2x `ACPC` Finalist.
